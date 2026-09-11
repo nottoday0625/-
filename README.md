@@ -26,3 +26,5 @@
 先让ai帮我配置了环境和软件，然后在完全不会的情况下让ai帮我跑出来图表。但是我还是自己试了一下用kicad自己做电路。经过了若干的熟悉和debug后终于成功输出了第一份图表<img width="2396" height="1424" alt="屏幕截图 2026-09-11 130949" src="https://github.com/user-attachments/assets/d25ab115-c2da-4a4c-9d4d-49656632d165" />
 <img width="1170" height="884" alt="屏幕截图 2026-09-11 132652" src="https://github.com/user-attachments/assets/94903a98-f76a-40a1-9cbc-9c163e2e6174" />
 
+
+下面开始着手做第二个
