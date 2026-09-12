@@ -1,3 +1,5 @@
+<img width="1706" height="1279" alt="8626eb1f15f715a7b55f809312da8bc1" src="https://github.com/user-attachments/assets/2b6c3c92-d2ee-4ac3-a77b-40739c96df5f" />
+<img width="1706" height="1279" alt="8626eb1f15f715a7b55f809312da8bc1" src="https://github.com/user-attachments/assets/80d14c60-2959-43e9-82cb-ca710711a762" />
 # -
 用来完成一个考核任务的仓库！
 使用MIT协议是因为这个最符合开源的初衷啊（对吗？）
@@ -33,6 +35,26 @@
 
 
 
+
 shit
 刚才发现第一个要做的是低通滤波。。。
 还要求了图表。。。
+
+
+
+<img width="1706" height="1279" alt="RC低通滤波电路图" src="https://github.com/user-attachments/assets/09b8f6b8-66c8-4648-bca0-7b3c6d39b644" />
+
+
+<img width="1440" height="804" alt="Figure_1" src="https://github.com/user-attachments/assets/ad6cbca5-1947-471d-91e6-22940c809723" />
+
+
+
+
+<img width="1000" height="700" alt="Figure_2" src="https://github.com/user-attachments/assets/e67011d3-1da3-41e0-b794-de70441c8f56" />
+
+
+
+
+
+
+
