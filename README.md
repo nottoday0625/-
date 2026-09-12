@@ -1,6 +1,3 @@
-<img width="1706" height="1279" alt="8626eb1f15f715a7b55f809312da8bc1" src="https://github.com/user-attachments/assets/2b6c3c92-d2ee-4ac3-a77b-40739c96df5f" />
-<img width="1706" height="1279" alt="8626eb1f15f715a7b55f809312da8bc1" src="https://github.com/user-attachments/assets/80d14c60-2959-43e9-82cb-ca710711a762" />
-# -
 用来完成一个考核任务的仓库！
 使用MIT协议是因为这个最符合开源的初衷啊（对吗？）
 
